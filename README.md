@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayP2405
 - 👀 I’m interested in UI UX & Cloud technologies.
-- 🌱 I’m currently learning Flutter Mobile & Web App Develoopment.
+- 🌱 I’m currently working on React Native technology.
 - 📫 Reach out to me on my email id, jay.rajeshbhai@gmail.com
 
 <!---
